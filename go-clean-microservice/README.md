@@ -30,7 +30,8 @@ Frameworks and Drivers are the most external layers and contain all the details 
 - **Frameworks and Drivers**: Contains details related to UI, databases, and external systems.
 
 ## Project Structure 
- .
+
+```
 ├── doc
 |   ├─api
 |   ├─integration-details
@@ -49,7 +50,7 @@ Frameworks and Drivers are the most external layers and contain all the details 
 ├── go.sum
 ├── Dockerfile
 └── docker-compose.yaml
-
+```
 
 ## Reference Links
 
